@@ -40,3 +40,33 @@ To build a payroll system that calculates employee salaries using structures for
 ---
 
 ## Sample Run
+```
+--- Employee Payroll System ---
+1. Add Employee Record
+2. Calculate Salary
+3. View Payroll Report
+4. Exit
+Enter your choice: 1
+Enter Employee ID: 1
+Enter Employee Name: Sid
+Enter Basic Salary: 5000 
+Employee record added successfully!
+
+--- Employee Payroll System ---
+1. Add Employee Record
+2. Calculate Salary
+3. View Payroll Report
+4. Exit
+Enter your choice: 3
+
+--- Payroll Report ---
+ID: 1, Name: Sid, Basic: 5000.00, HRA: 1500.00, DA: 1000.00, Gross: 7500.00
+
+--- Employee Payroll System ---
+1. Add Employee Record
+2. Calculate Salary
+3. View Payroll Report
+4. Exit
+Enter your choice: 4
+Exiting program...
+```
